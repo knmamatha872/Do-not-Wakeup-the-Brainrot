@@ -1,0 +1,11 @@
+# Roblox / Rojo
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+*.rbxmx
+*.rbxm
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
